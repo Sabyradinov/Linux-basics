@@ -1,4 +1,7 @@
 #base sh scripts
+
+# base work with file/folder
+echo $0 # check sh ide
 pwd # show me working directory
 cd /foldername # change directory `..` go to parent folder, `-` go to previous folder
 mkdir # create new folder
